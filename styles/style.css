@@ -149,9 +149,9 @@ body {
 
 .name {
     font-family: 'Rubik', sans-serif;
-    font-size: 32px;
+    font-size: 40px;
     font-weight: 600;
-    margin-bottom: 16px;
+    margin-bottom: 10px;
 }
 
 .summary {
@@ -172,8 +172,14 @@ body {
 .location {
     font-family: 'Rubik', sans-serif;
     font-size: 20px;
+    margin-bottom: 20px;
     font-weight: 300;
+}
+.location.last {
     margin-bottom: 30px;
+}
+.location span {
+    font-weight: 600;
 }
 .location a {
     color: black;
