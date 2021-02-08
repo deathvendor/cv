@@ -168,6 +168,12 @@ body {
     font-weight: 400;
     font-size: 20px;
 }
+.status p {
+    margin-bottom: 15px;
+}
+.status p:last-of-type {
+    margin-bottom: 0;
+}
 
 .location {
     font-family: 'Rubik', sans-serif;
