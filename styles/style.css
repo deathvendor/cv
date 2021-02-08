@@ -305,6 +305,9 @@ body {
 }
 
 @media (max-width: 350px) {
+    .name {
+        font-size: 28px;
+    }
     .company {
         font-size: 16px;
     }
